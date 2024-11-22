@@ -1,3 +1,4 @@
+// Trabajaron Daniel David Ponce,Carlos Geovany Rodriguez y Jocsan Gomez
 package rodriguez_carlos_tictactoe;
 
 import javax.swing.JButton;
